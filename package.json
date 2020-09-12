@@ -1,0 +1,19 @@
+{
+  "name": "myresumeonline",
+  "version": "1.0.0",
+  "description": "My online resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iidiong/MyResumeOnline.git"
+  },
+  "author": "Idongesit Idiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iidiong/MyResumeOnline/issues"
+  },
+  "homepage": "https://github.com/iidiong/MyResumeOnline#readme"
+}
